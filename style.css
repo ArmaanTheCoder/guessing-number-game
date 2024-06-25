@@ -1,0 +1,55 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    background-color: lightskyblue;
+}
+
+#GuessNo{
+    display: flex;
+    justify-content: center;
+}
+
+#GuessNumber{
+    padding-left: 0.3em;
+}
+
+#Submit{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#myH1, #Closeness{
+    text-align: center;
+}
+
+#GuessInput{
+    text-align: center;
+}
+
+input{
+    height: 100px;
+    width: 200px;
+    font-size: 80px;
+    text-align: center;
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+}
+
+.green{
+    background-color: rgb(26, 228, 26);
+}
+
+#myReset{
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.Reset{
+    display: flex;
+    justify-content: center;
+}
